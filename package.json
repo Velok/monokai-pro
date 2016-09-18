@@ -1,5 +1,5 @@
 {
-  "name": "monokai pro",
+  "name": "monokai-pro",
   "theme": "syntax",
   "version": "0.0.0",
   "description": "A monokai theme",
@@ -14,5 +14,4 @@
   "bugs": {
     "url": "https://github.com/velok/monokai-pro/issues"
   }
-
 }
